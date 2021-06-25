@@ -41,7 +41,7 @@ assim um entendimento lógico sobre o relacionamento entre as variáveis para va
 
 Os resultados foram bem animadores, somente com essa técnica foi possível concluir que 12 dos 87 atributos são automatizáveis e apresentam relacionamento com outros atributos.
 No projeto em questão esses 12 atributos requisitariam 43048 preenchimentos, se cada preenchimento durasse 30 segundos seriam necessário 359 HH de engenharia com preenchimento.
-Considerando o HH de engenharia ao valor de R$ 350/HH estamos falando de R$ 125.650 economizados para um único elemento em um único projeto. Evoluindo esse trabalho para mais
+Considerando o HH de engenharia ao valor (conforme valores de salário básico do CREA) de R$ 43/HH estamos falando de R$ 15.585 economizados para um único elemento em um único projeto. Evoluindo esse trabalho para mais
 elementos e utilizando não somente atributos dentro do mesmo elementos, mas atributos de elementos conectados estamos falando de um potencial de economia que superará facilmente
 a casa dos milhões de reais.
 
