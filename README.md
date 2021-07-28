@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Descoberta de padrões em bases de dados de engenharia para automatizar o preenchimento
+# Descoberta de Padrões em Bases de Dados de Engenharia Para Automatizar o Preenchimento
 
 #### Aluno: [Jackson Luan Queiroz](https://github.com/Jacksonluan).
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
@@ -9,13 +9,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/link_do_repositorio/nome_do_arquivo_de_codigo). <!-- caso não aplicável, remover esta linha -->
-
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [How to use Python Seaborn for Exploratory Data Analysis](https://www.justintodata.com/how-to-use-python-seaborn-for-exploratory-data-analysis/).
-    - [Hands-On Guide To Market Basket Analysis With Python Codes](https://analyticsindiamag.com/hands-on-guide-to-market-basket-analysis-with-python-codes/).
-    - [GradientBoostingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html).
-    - [Gradient Boosting In Classification: Not a Black Box Anymore!](https://blog.paperspace.com/gradient-boosting-for-classification/).
+- [Link para o código](https://github.com/secretaria-ICA/Descoberta_de_Padroes_em_Bases_de_Dados_de_Engenharia_para_Automatizar_o_Preenchimento/blob/main/FPSO_Rela%C3%A7%C3%A3o_de_dados.ipynb). <!-- caso não aplicável, remover esta linha -->
 
 ---
 
